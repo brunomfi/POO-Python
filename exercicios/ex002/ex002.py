@@ -23,7 +23,7 @@ n1.aniversairo()
 #print(n1)
 print(n1.__dict__)
 print(n1.__getstate__())
-print(n1.__class__) 
+print(n1.__class__)
 n2 = Nerd('Marcos', 34)
 print(n2)
 
