@@ -6,9 +6,13 @@ class Churrasco:
         self.titulo = titulo
         self.quant = quant
     def analisar(self):
+        totalkg = self.quant * 0.40
+        cadaP = totalkg * 82.40
         print(Panel(f"\nAnalisando o [green]{self.titulo}[/] com [blue]{self.quant} convidados[/]"
                     f"\nCada participante comerá 0.4Kg e cada Kg custá valor de R$ 82,40"
-                    f"\nÉ recomendado comprar {0.4*self.quant}Kg de carne"
+                    f"\nÉ recomendado comprar [green]{totalkg}Kg[/] de carne"
+                    f"\nO custo total será [yellow]R$ {cadaP:.2f}[/]"
+                    f"\nCada pessoa deverá pagar R$ [yellow]R$ {cadaP / self.quant:.2f}[/]"
                     ,
 
 
