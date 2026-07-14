@@ -4,4 +4,4 @@ install()
 def divisao(x, y):
     return x / y
 
-print(divisao(1, 0))
+print(divisao(1, 1))
