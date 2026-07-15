@@ -16,9 +16,8 @@ class Livro:
 
     def avancar(self, valor):
 
-
-        while self.paginas > 1:
             i = 1
+
             while i < valor+1 :
                 print(f"Pag{self.pagina_atual+ 1}, ", end='')
                 sleep(0.4)
@@ -26,19 +25,15 @@ class Livro:
                 self.pagina_atual += 1
 
 
-                if valor+1 == i:
-                    self.paginas -= valor
 
-                    print(f'Você avançou {i-1} paginas e está na pagina {self.pagina_atual}, restam {self.paginas} paginas')
+                if valor + 1 == i:
 
-                if self.paginas == 0:
+                    print(f'Você avançou {i-1} paginas e está na pagina {self.pagina_atual}, restam {self.paginas-valor} paginas')
+                    break
+
+                if self.pagina_atual == self.paginas:
                     print(f'[red] Você chegou ao final do livro [green]{self.titulo}[/]')
                     break
 
 l1 = Livro("BMF EM PROTOCOLO", 20)
-l1.avancar(5)
 l1.avancar(10)
-l1.avancar(50)
-
-
-
