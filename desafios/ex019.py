@@ -5,24 +5,40 @@ class Livro:
     def __init__(self, titulo, paginas):
         self.titulo = titulo
         self.paginas = paginas
+        self.pagina_atual = 1
+        print(
+            f'[blue]Você acabou de abrir o Livro: [red]{self.titulo}[/] contem: [green]{self.paginas} Páginas no total[/]'
+            f'\nVocê agora está na [yellow]Pagina {self.pagina_atual}[/]')
+
+
 
 
 
     def avancar(self, valor):
-        print(f'Você acabou de abrir o Livro: {self.titulo} contem: {self.paginas} Páginas')
-
-        i = 0
-        while i < self.paginas:
-            print(f"Pag{i+1} ", end='')
-            #sleep(1)
-            i += 1
-            if valor == i:
-                self.paginas -= valor
-                break
 
 
+        while self.paginas > 1:
+            i = 1
+            while i < valor+1 :
+                print(f"Pag{self.pagina_atual+ 1}, ", end='')
+                sleep(0.4)
+                i += 1
+                self.pagina_atual += 1
 
 
+                if valor+1 == i:
+                    self.paginas -= valor
 
-l1 = Livro("Protocolo", 20)
+                    print(f'Você avançou {i-1} paginas e está na pagina {self.pagina_atual}, restam {self.paginas} paginas')
+
+                if self.paginas == 0:
+                    print(f'[red] Você chegou ao final do livro [green]{self.titulo}[/]')
+                    break
+
+l1 = Livro("BMF EM PROTOCOLO", 20)
 l1.avancar(5)
+l1.avancar(10)
+l1.avancar(50)
+
+
+
