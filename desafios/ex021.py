@@ -1,6 +1,4 @@
 from rich import print
-
-
 class Caneta:
     def __init__(self, nome):
         self.nome = nome
@@ -31,7 +29,6 @@ class Caneta:
 
     def quebrar_linha(self, qtd=1):
         print(f"\n" * qtd, end='')
-
 
 c1 = Caneta('azul')
 c1.destampar()
