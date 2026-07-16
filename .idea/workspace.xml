@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42934707-06b2-4e2e-96bc-e54c1c6d2a49" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/desafios/ex021.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafios/ex021.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafios/ex021.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,61 +25,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000004735434034" />
-      <entry key="MS500" value="1.0543340350056263" />
-      <entry key="S2" value="1.4828027541963138" />
-      <entry key="S5" value="1.75797572102155" />
-      <entry key="S10" value="2.0663337260359764" />
-      <entry key="S30" value="3.4386344169166105" />
-      <entry key="S60" value="4.920757767392274" />
-      <entry key="M2" value="8.69504844571135" />
-      <entry key="M5" value="18.808851974106222" />
-      <entry key="M10" value="28.70899730622553" />
-      <entry key="M15" value="38.201858704802184" />
-      <entry key="M30" value="81.15074311664448" />
-      <entry key="H1" value="173.62329909165697" />
-      <entry key="H2" value="304.04645198048155" />
-      <entry key="H4" value="485.9033247836001" />
-      <entry key="D1" value="1167.7744054636808" />
-      <entry key="W1" value="1487.8453516054883" />
+      <entry key="MS100" value="1.0022280541325554" />
+      <entry key="MS500" value="1.2948392336579366" />
+      <entry key="S2" value="1.762843329100182" />
+      <entry key="S5" value="2.4490280658591965" />
+      <entry key="S10" value="4.004709335711524" />
+      <entry key="S30" value="7.3909209091340715" />
+      <entry key="S60" value="8.953985079643191" />
+      <entry key="M2" value="9.907833860634625" />
+      <entry key="M5" value="10.545258701741856" />
+      <entry key="M10" value="10.772805748538593" />
+      <entry key="M15" value="10.937579407876834" />
+      <entry key="M30" value="14.89044431767502" />
+      <entry key="H1" value="49.25628078176466" />
+      <entry key="H2" value="154.25059638080413" />
+      <entry key="H4" value="345.64526387348576" />
+      <entry key="D1" value="1112.9126163567153" />
+      <entry key="W1" value="1493.0450643816582" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="1.3120487722442023E-225" />
-      <entry key="S2" value="6.018489328349982E-57" />
-      <entry key="S5" value="3.2493392896128466E-23" />
-      <entry key="S10" value="5.702484904758551E-12" />
-      <entry key="S30" value="1.916163536853158E-4" />
-      <entry key="S60" value="0.016968435152502303" />
-      <entry key="M2" value="0.17563399310333816" />
-      <entry key="M5" value="0.746588421905129" />
-      <entry key="M10" value="1.2361966745851447" />
-      <entry key="M15" value="1.543929754811308" />
-      <entry key="M30" value="2.508056941980121" />
-      <entry key="H1" value="4.4676098910463615" />
-      <entry key="H2" value="7.420035116110736" />
-      <entry key="H4" value="11.900785727709803" />
-      <entry key="D1" value="30.836110398028612" />
-      <entry key="W1" value="40.07904757637809" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="2.3042976076260097E-243" />
+      <entry key="S30" value="1.320962843433536E-81" />
+      <entry key="S60" value="3.6793718659428607E-41" />
+      <entry key="M2" value="6.93352810283935E-21" />
+      <entry key="M5" value="1.3894011182242049E-8" />
+      <entry key="M10" value="1.9864053327210934E-4" />
+      <entry key="M15" value="0.005058705550817956" />
+      <entry key="M30" value="0.15625584185952912" />
+      <entry key="H1" value="1.153316853489745" />
+      <entry key="H2" value="3.866484787005387" />
+      <entry key="H4" value="8.741659334152661" />
+      <entry key="D1" value="29.83631969062584" />
+      <entry key="W1" value="40.700084033720046" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9138318829682556" />
-      <entry key="MS500" value="1.035503202412844" />
-      <entry key="S2" value="1.4761370226329167" />
-      <entry key="S5" value="1.754457239334241" />
-      <entry key="S10" value="2.0600203418976752" />
-      <entry key="S30" value="3.4249867592120986" />
-      <entry key="S60" value="4.925109920627178" />
-      <entry key="M2" value="8.858840865580623" />
-      <entry key="M5" value="19.54409963235235" />
-      <entry key="M10" value="29.935132538786938" />
-      <entry key="M15" value="39.735465427863005" />
-      <entry key="M30" value="83.64521258716361" />
-      <entry key="H1" value="178.07546011939755" />
-      <entry key="H2" value="311.4525297069085" />
-      <entry key="H4" value="497.79264764174377" />
-      <entry key="D1" value="1198.606008063558" />
-      <entry key="W1" value="1527.923589381306" />
+      <entry key="MS100" value="0.9286813694343872" />
+      <entry key="MS500" value="1.2760498785686216" />
+      <entry key="S2" value="1.7522326572382252" />
+      <entry key="S5" value="2.413725807088871" />
+      <entry key="S10" value="3.9516542262570855" />
+      <entry key="S30" value="7.349539377436684" />
+      <entry key="S60" value="8.928014125414473" />
+      <entry key="M2" value="9.893254099500167" />
+      <entry key="M5" value="10.539002941226949" />
+      <entry key="M10" value="10.769800480662663" />
+      <entry key="M15" value="10.940454840407472" />
+      <entry key="M30" value="15.044888372745323" />
+      <entry key="H1" value="50.40550649078581" />
+      <entry key="H2" value="158.11008569846118" />
+      <entry key="H4" value="354.37878796522983" />
+      <entry key="D1" value="1142.7446352515374" />
+      <entry key="W1" value="1533.744334768676" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -176,7 +176,7 @@
       <workItem from="1783944794365" duration="12169000" />
       <workItem from="1784030323346" duration="20230000" />
       <workItem from="1784114667653" duration="12486000" />
-      <workItem from="1784203172839" duration="6294000" />
+      <workItem from="1784203172839" duration="7446000" />
     </task>
     <servers />
   </component>
@@ -201,7 +201,7 @@
     <SUITE FILE_PATH="coverage/POO_Python$ex020.coverage" NAME="ex020 Coverage Results" MODIFIED="1784138875554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
     <SUITE FILE_PATH="coverage/POO_Python$ex018.coverage" NAME="ex018 Coverage Results" MODIFIED="1784049669722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
     <SUITE FILE_PATH="coverage/POO_Python$ex001.coverage" NAME="ex001 Coverage Results" MODIFIED="1783775489212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex001" />
-    <SUITE FILE_PATH="coverage/POO_Python$ex021.coverage" NAME="ex021 Coverage Results" MODIFIED="1784210082121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
+    <SUITE FILE_PATH="coverage/POO_Python$ex021.coverage" NAME="ex021 Coverage Results" MODIFIED="1784218086944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
     <SUITE FILE_PATH="coverage/POO_Python$rich002.coverage" NAME="rich002 Coverage Results" MODIFIED="1784032907072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercicios/rich" />
     <SUITE FILE_PATH="coverage/POO_Python$ex002.coverage" NAME="ex002 Coverage Results" MODIFIED="1783780650981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercicios/ex002" />
     <SUITE FILE_PATH="coverage/POO_Python$ex017.coverage" NAME="ex017 Coverage Results" MODIFIED="1784136637507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />

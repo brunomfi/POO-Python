@@ -29,14 +29,20 @@ class Caneta:
     def destampar(self):
             self.tampada = False
 
+    def quebrar_linha(self, qtd=1):
+        print(f"\n" * qtd, end='')
+
 
 c1 = Caneta('azul')
 c1.destampar()
 c1.escrever('Eai galerona')
 
+
 c2 = Caneta('vermelha')
-c2.escrever('Eai galerona')
 c2.destampar()
+c2.escrever('Eai galerona')
+c2.quebrar_linha(5)
+
 
 c3 = Caneta('verde')
 c3.escrever('Eaiiiiiiiiiiiii')
