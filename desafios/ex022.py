@@ -4,11 +4,11 @@ from rich.panel import Panel
 class ControleRemoto:
 
     canal_min:int = 1
-    canal_max:int = 6
+    canal_max:int = 5
     volume_min:int = 1
     volume_max:int = 5
 
-    def __init__(self, canal = 3, volume = 2):
+    def __init__(self, canal = 4, volume = 2):
         self.canal_atual = canal
         self.volume_atual = volume
         self.ligado:bool = False
@@ -27,14 +27,59 @@ class ControleRemoto:
                 else:
                     conteudo += f" {canal} "
 
-        tv = Panel(conteudo, title="[ TV ]", width=35)
-        print(tv)
+            conteudo += f"VOLUME = "
+            for vol in range(ControleRemoto.volume_min, ControleRemoto.volume_max + 1):
+                if vol <= self.volume_atual:
+                   conteudo += f"[black on green] [/]"
+                else: conteudo += f"[black on white] [/]"
+
+
+
+
+
+
+        tela = Panel(conteudo, title="[ TV ]", width=32)
+        print(tela)
 
     def liga_desliga(self):
         self.ligado = not self.ligado
+    def aumenta_volume(self):
+        self.volume_atual += 1
+        if self.volume_atual >= ControleRemoto.volume_max:
+            self.volume_atual = ControleRemoto.volume_max
+    def diminuir_volume(self):
+        self.volume_atual -= 1
+        if self.volume_atual < ControleRemoto.volume_min:
+            self.volume_atual = ControleRemoto.volume_min - 1
+    def aumenta_canal(self):
+        if self.canal_atual >= ControleRemoto.canal_max:
+            self.canal_atual = self.canal_min
+        else:
+            self.canal_atual += 1
+
+    def diminuir_canal(self):
+        if self.canal_atual <= ControleRemoto.canal_min:
+            self.canal_atual = self.canal_max
+        else:
+            self.canal_atual -= 1
 
 tv = ControleRemoto()
-tv.liga_desliga()
-tv.mostrar_tv()
 
-# f" \n< CH{self.canal_atual} >    - (VOL{self.volume_atual}) + "
+
+while True:
+    tv.mostrar_tv()
+    comando = str(input(f" < CH >    - (VOL) + "))
+    match comando:
+        case '0':
+            break
+        case '@':
+            tv.liga_desliga()
+        case '<':
+            tv.aumenta_canal()
+        case '>' :
+            tv.diminuir_canal()
+        case '-':
+            tv.diminuir_volume()
+        case '+':
+            tv.aumenta_volume()
+
