@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="42934707-06b2-4e2e-96bc-e54c1c6d2a49" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafios/ex022.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafios/ex022.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -203,6 +202,7 @@
     <SUITE FILE_PATH="coverage/POO_Python$ex018.coverage" NAME="ex018 Coverage Results" MODIFIED="1784049669722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
     <SUITE FILE_PATH="coverage/POO_Python$ex020.coverage" NAME="ex020 Coverage Results" MODIFIED="1784138875554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
     <SUITE FILE_PATH="coverage/POO_Python$ex001.coverage" NAME="ex001 Coverage Results" MODIFIED="1783775489212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex001" />
+    <SUITE FILE_PATH="coverage/POO_Python$ex022refeito.coverage" NAME="ex022refeito Coverage Results" MODIFIED="1784296928211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
     <SUITE FILE_PATH="coverage/POO_Python$ex021.coverage" NAME="ex021 Coverage Results" MODIFIED="1784218237532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
     <SUITE FILE_PATH="coverage/POO_Python$rich002.coverage" NAME="rich002 Coverage Results" MODIFIED="1784032907072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercicios/rich" />
     <SUITE FILE_PATH="coverage/POO_Python$ex002.coverage" NAME="ex002 Coverage Results" MODIFIED="1783780650981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercicios/ex002" />
