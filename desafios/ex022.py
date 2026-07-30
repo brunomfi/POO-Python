@@ -74,9 +74,9 @@ while True:
             break
         case '@':
             tv.liga_desliga()
-        case '<':
+        case '>':
             tv.aumenta_canal()
-        case '>' :
+        case '<' :
             tv.diminuir_canal()
         case '-':
             tv.diminuir_volume()
