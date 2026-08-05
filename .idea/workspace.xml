@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42934707-06b2-4e2e-96bc-e54c1c6d2a49" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Herança/ex004/__main__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Herança/ex004/aluno.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Herança/ex004/funcionario.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Herança/ex004/pessoa.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Herança/ex004/professor.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Herança/ex004/__main__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Herança/ex004/__main__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,61 +25,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0001032194463249" />
-      <entry key="S2" value="1.1068570246118141" />
-      <entry key="S5" value="1.731754359896399" />
-      <entry key="S10" value="3.2921173949198885" />
-      <entry key="S30" value="8.299297322614443" />
-      <entry key="S60" value="12.70165092390259" />
-      <entry key="M2" value="18.04107042362795" />
-      <entry key="M5" value="25.741490117784544" />
-      <entry key="M10" value="30.777476643716827" />
-      <entry key="M15" value="34.80526492884348" />
-      <entry key="M30" value="54.01558913596248" />
-      <entry key="H1" value="103.65584769439106" />
-      <entry key="H2" value="210.5796630974111" />
-      <entry key="H4" value="413.3690314560302" />
-      <entry key="D1" value="1485.0549731803605" />
-      <entry key="W1" value="2202.690069988646" />
+      <entry key="MS100" value="1.2172552343044105" />
+      <entry key="MS500" value="2.14616113290177" />
+      <entry key="S2" value="2.81375891859928" />
+      <entry key="S5" value="3.555897883039165" />
+      <entry key="S10" value="5.1359207114615355" />
+      <entry key="S30" value="10.17427890838591" />
+      <entry key="S60" value="14.607046976655504" />
+      <entry key="M2" value="19.974319818071525" />
+      <entry key="M5" value="27.703578254968548" />
+      <entry key="M10" value="32.75485581943187" />
+      <entry key="M15" value="36.78823184612086" />
+      <entry key="M30" value="56.00241907727082" />
+      <entry key="H1" value="105.64325078887796" />
+      <entry key="H2" value="212.56688997416015" />
+      <entry key="H4" value="415.3565050261334" />
+      <entry key="D1" value="1487.047477513857" />
+      <entry key="W1" value="2204.688481846623" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="7.624887843017624E-296" />
-      <entry key="MS500" value="9.74943580155015E-60" />
-      <entry key="S2" value="2.7883815340086222E-15" />
-      <entry key="S5" value="3.0682053704046513E-6" />
-      <entry key="S10" value="0.003479381197717989" />
-      <entry key="S30" value="0.45522487369398523" />
-      <entry key="S60" value="1.7414891097644773" />
-      <entry key="M2" value="3.7322831495905064" />
-      <entry key="M5" value="6.460318988309993" />
-      <entry key="M10" value="8.067675259247586" />
-      <entry key="M15" value="8.950974746425786" />
-      <entry key="M30" value="11.064353347358109" />
-      <entry key="H1" value="14.442819219858166" />
-      <entry key="H2" value="19.370824409365962" />
-      <entry key="H4" value="26.56200741150585" />
-      <entry key="D1" value="57.82726542001549" />
-      <entry key="W1" value="78.25770598927159" />
+      <entry key="MS100" value="9.74439291105674E-298" />
+      <entry key="MS500" value="4.0764652951197935E-60" />
+      <entry key="S2" value="2.242220218349383E-15" />
+      <entry key="S5" value="2.8119969954017657E-6" />
+      <entry key="S10" value="0.0033309431881431233" />
+      <entry key="S30" value="0.4486569384840604" />
+      <entry key="S60" value="1.7288804572605472" />
+      <entry key="M2" value="3.718747449164575" />
+      <entry key="M5" value="6.450937034883664" />
+      <entry key="M10" value="8.06181501814181" />
+      <entry key="M15" value="8.946639650220316" />
+      <entry key="M30" value="11.061673703714202" />
+      <entry key="H1" value="14.441070181706142" />
+      <entry key="H2" value="19.36965146188915" />
+      <entry key="H4" value="26.56120320434957" />
+      <entry key="D1" value="57.8269736142128" />
+      <entry key="W1" value="78.2576495747018" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.6877709090698718" />
-      <entry key="MS500" value="0.9278903838713993" />
-      <entry key="S2" value="1.0516070408369136" />
-      <entry key="S5" value="1.65517135921254" />
-      <entry key="S10" value="3.2167102055802057" />
-      <entry key="S30" value="8.671389130302616" />
-      <entry key="S60" value="14.362764399446657" />
-      <entry key="M2" value="21.70573498661352" />
-      <entry key="M5" value="32.159327184647935" />
-      <entry key="M10" value="38.81925815053904" />
-      <entry key="M15" value="43.73705179043887" />
-      <entry key="M30" value="65.06679172178225" />
-      <entry key="H1" value="118.08738706865081" />
-      <entry key="H2" value="229.93896620048585" />
-      <entry key="H4" value="439.9194987445646" />
-      <entry key="D1" value="1542.8757838753997" />
-      <entry key="W1" value="2280.946452018036" />
+      <entry key="MS100" value="0.38255153795722074" />
+      <entry key="MS500" value="1.6217331898097087" />
+      <entry key="S2" value="2.600087700862336" />
+      <entry key="S5" value="3.4132808164231556" />
+      <entry key="S10" value="5.0266785994870435" />
+      <entry key="S30" value="10.528460714767597" />
+      <entry key="S60" value="16.249838822004715" />
+      <entry key="M2" value="23.62254039215115" />
+      <entry key="M5" value="34.11083219737095" />
+      <entry key="M10" value="40.79016421818494" />
+      <entry key="M15" value="45.71527173322389" />
+      <entry key="M30" value="67.05073459171105" />
+      <entry key="H1" value="120.07293717788349" />
+      <entry key="H2" value="231.92496816915826" />
+      <entry key="H4" value="441.90614212736386" />
+      <entry key="D1" value="1544.8679920473494" />
+      <entry key="W1" value="2282.9448068354936" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -95,45 +91,45 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.__main__.executor": "Run",
-    "Python.ex001.executor": "Run",
-    "Python.ex002.executor": "Run",
-    "Python.ex003.executor": "Run",
-    "Python.ex004.executor": "Run",
-    "Python.ex016.executor": "Run",
-    "Python.ex017.executor": "Run",
-    "Python.ex018.executor": "Run",
-    "Python.ex019.executor": "Run",
-    "Python.ex020.executor": "Run",
-    "Python.ex021.executor": "Run",
-    "Python.ex022.executor": "Run",
-    "Python.ex022refeito.executor": "Run",
-    "Python.rich001.executor": "Run",
-    "Python.rich002.executor": "Run",
-    "Python.rich003.executor": "Run",
-    "Python.rich004.executor": "Run",
-    "Python.rich005.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "C:/Users/Admin/Desktop/Bruno Treino/POO-Python/Herança",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.__main__.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex003.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex004.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex016.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex017.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex018.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex019.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex020.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex021.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex022.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex022refeito.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rich001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rich002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rich003.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rich004.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rich005.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/Desktop/Bruno Treino/POO-Python/Herança&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Admin\Desktop\Bruno Treino\POO-Python\Herança" />
@@ -192,7 +188,8 @@
       <workItem from="1784203172839" duration="19662000" />
       <workItem from="1784288587582" duration="4622000" />
       <workItem from="1785417267677" duration="14237000" />
-      <workItem from="1785868735814" duration="6169000" />
+      <workItem from="1785868735814" duration="7009000" />
+      <workItem from="1785949343051" duration="112000" />
     </task>
     <servers />
   </component>
@@ -211,9 +208,9 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/ex022_py$__main__.coverage" NAME="__main__ Coverage Results" MODIFIED="1785875854408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Herança/ex004" />
-    <SUITE FILE_PATH="coverage/ex022_py$ex022refeito.coverage" NAME="ex022refeito Coverage Results" MODIFIED="1785443958596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
+    <SUITE FILE_PATH="coverage/ex022_py$__main__.coverage" NAME="__main__ Coverage Results" MODIFIED="1785949441209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Herança/ex004" />
     <SUITE FILE_PATH="coverage/POO_Python$ex019.coverage" NAME="ex019 Coverage Results" MODIFIED="1784134667723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
+    <SUITE FILE_PATH="coverage/ex022_py$ex022refeito.coverage" NAME="ex022refeito Coverage Results" MODIFIED="1785443958596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
     <SUITE FILE_PATH="coverage/ex022_py$ex004.coverage" NAME="ex004 Coverage Results" MODIFIED="1785870737354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Herança" />
     <SUITE FILE_PATH="coverage/POO_Python$rich004.coverage" NAME="rich004 Coverage Results" MODIFIED="1783967496043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercicios/rich" />
     <SUITE FILE_PATH="coverage/POO_Python$rich003.coverage" NAME="rich003 Coverage Results" MODIFIED="1784032713293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercicios/rich" />
