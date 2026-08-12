@@ -6,8 +6,6 @@ class Pessoa(ABC):
         self.idade = idade
     def fazerAniversario(self):
         self.idade += 1
-    def estudar(self):
-        pass
 
     @abstractmethod
     def estudar(self):
