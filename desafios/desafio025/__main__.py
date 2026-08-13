@@ -4,7 +4,7 @@ from transportes import *
 from rich.table import Table
 
 def main():
-    dist = 5
+    dist = 55
     """entrega = Caminhao(dist)
     print(f'Frete de {type(entrega).__name__} em {dist}Km = {entrega.calc_frete()}')"""
 
@@ -18,10 +18,6 @@ def main():
     for item in viagem:
         tabela.add_row(f"{dist}Km", f"{type(item).__name__}", f"{item.calc_frete()}")
 
-
-
-
     print(tabela)
-
 if __name__ == '__main__':
     main()

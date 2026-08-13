@@ -21,7 +21,7 @@ class Caminhao(Transporte):
     fator = 1.20
     def calc_frete(self):
         if self.distancia < 50:
-            return f'Não é possivel fazer um pois raio maior que 50km'
+            return f'Não é possivel fazer, menor que 50km'
         else:
             return f'R$ {self.fator * self.distancia}'
 
@@ -29,6 +29,6 @@ class Drone(Transporte):
     fator = 9.50
     def calc_frete(self):
         if self.distancia > 5:
-            return f'Não é possivel fazer um pois raio ate  10km'
+            return f'Não é possivel fazer, até 10km'
         else:
             return f'R$ {self.fator * self.distancia}'
