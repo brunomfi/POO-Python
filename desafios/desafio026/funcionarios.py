@@ -1,5 +1,6 @@
 from abc import ABC, abstractmethod
-from rich.table import Table
+from rich import print
+from rich.panel import Panel
 
 class Funcionario(ABC):
 
@@ -17,8 +18,10 @@ class Funcionario(ABC):
         pass
 
     def analisar_salario(self):
-        pass
-
+        mensagem = (f"O salario de [blue]{self.nome}[/blue] [purple]({self.__class__.__name__})[/purple], corresponde ao valor de [green]{self.salarioBruto:.2f}[/green],"
+                    f" corresponde ao valor de [yellow]{self.salarioBruto/self.sal_min:.2f}[/yellow] salarios minimos")
+        painel = Panel(mensagem, title='Analise do Salario', width=50)
+        print(painel)
 
 class FuncionarioHorista(Funcionario):
 
@@ -31,9 +34,15 @@ class FuncionarioHorista(Funcionario):
         self.salario = self.valor_hora * self.qtd_hora
         self.salarioBruto = self.salario - ( self.salario * (self.desconto_inss /100))
 
-    def analisar_salario(self):
-        return self.salarioBruto / self.sal_min
+
+
 
 class FuncionarioMensalista(Funcionario):
+
+    def __init__(self, nome = None, salario= 0):
+        super().__init__(nome)
+        self.salario= salario
+
+
     def calc_salario(self):
-        pass
+        self.salarioBruto = self.salario - self.salario * (self.desconto_inss /100)
