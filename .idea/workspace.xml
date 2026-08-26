@@ -5,9 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42934707-06b2-4e2e-96bc-e54c1c6d2a49" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/desafios/desafio027/__main__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/desafio027/personagem_rpg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Encapsulamento/Desafios/desafio028/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Encapsulamento/Desafios/desafio028/termostato.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Encapsulamento/Desafios/desafio029/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Encapsulamento/Desafios/desafio029/diario.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Encapsulamento/Desafios/desafio030/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Encapsulamento/Desafios/desafio030/classes030.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Encapsulamento/Desafios/desafio030/teste.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Encapsulamento/Desafios/desafio031/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Encapsulamento/Desafios/desafio031/classes031.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Encapsulamento/ex008/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Encapsulamento/ex008/ex008.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Encapsulamento/ex009/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Encapsulamento/ex009/ex009.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Encapsulamento/ex010/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Encapsulamento/ex010/ex010.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafios/desafio027/personagem_rpg.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafios/desafio027/personagem_rpg.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,61 +40,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0005726733150546" />
-      <entry key="MS500" value="1.224688816857158" />
-      <entry key="S2" value="1.7087832653920982" />
-      <entry key="S5" value="2.1868851046760183" />
-      <entry key="S10" value="2.825644771805791" />
-      <entry key="S30" value="4.262921585275565" />
-      <entry key="S60" value="7.295632155885118" />
-      <entry key="M2" value="16.680500325226564" />
-      <entry key="M5" value="44.914486829913855" />
-      <entry key="M10" value="73.13292668081822" />
-      <entry key="M15" value="92.24357186203451" />
-      <entry key="M30" value="141.73529768403955" />
-      <entry key="H1" value="226.79777588504945" />
-      <entry key="H2" value="378.7325011517286" />
-      <entry key="H4" value="659.3975824052393" />
-      <entry key="D1" value="2213.7993457932275" />
-      <entry key="W1" value="3493.024058934634" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.0" />
+      <entry key="S60" value="1.0000000007459602" />
+      <entry key="M2" value="1.000084237430759" />
+      <entry key="M5" value="1.2026624330654945" />
+      <entry key="M10" value="5.08362391846904" />
+      <entry key="M15" value="14.115591259048792" />
+      <entry key="M30" value="51.17946127386831" />
+      <entry key="H1" value="112.12408499719548" />
+      <entry key="H2" value="202.85047082085683" />
+      <entry key="H4" value="390.11395673430457" />
+      <entry key="D1" value="2112.142043824816" />
+      <entry key="W1" value="3990.724722484726" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="2.464016404382668E-125" />
-      <entry key="S2" value="7.045485066447996E-32" />
-      <entry key="S5" value="3.460703239487336E-13" />
-      <entry key="S10" value="5.882774209067805E-7" />
-      <entry key="S30" value="0.008379062628330752" />
-      <entry key="S60" value="0.09170004550645658" />
-      <entry key="M2" value="0.31531695884825056" />
-      <entry key="M5" value="0.7958294899559928" />
-      <entry key="M10" value="1.2618155660265962" />
-      <entry key="M15" value="1.6598334704753055" />
-      <entry key="M30" value="3.3062541617566192" />
-      <entry key="H1" value="7.613488900438307" />
-      <entry key="H2" value="15.807412899568579" />
-      <entry key="H4" value="29.799600091941162" />
-      <entry key="D1" value="93.84705314169182" />
-      <entry key="W1" value="138.1516623033349" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="3.882594137540859E-136" />
+      <entry key="S10" value="1.9704299372321915E-68" />
+      <entry key="S30" value="2.70097355711526E-23" />
+      <entry key="S60" value="5.197089929210699E-12" />
+      <entry key="M2" value="2.280975921061153E-6" />
+      <entry key="M5" value="0.006058729883280219" />
+      <entry key="M10" value="0.13176817897996657" />
+      <entry key="M15" value="0.4888368839168253" />
+      <entry key="M30" value="2.2715355184557513" />
+      <entry key="H1" value="5.544709358929248" />
+      <entry key="H2" value="10.840748336911776" />
+      <entry key="H4" value="21.85253613802694" />
+      <entry key="D1" value="102.72949902778208" />
+      <entry key="W1" value="175.67226202396338" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.005339353167353883" />
-      <entry key="MS500" value="0.5004477443818005" />
-      <entry key="S2" value="1.407324513330914" />
-      <entry key="S5" value="2.023341455806736" />
-      <entry key="S10" value="2.717307180942485" />
-      <entry key="S30" value="4.218048354926546" />
-      <entry key="S60" value="7.343423716674265" />
-      <entry key="M2" value="16.947710369361968" />
-      <entry key="M5" value="45.661422169786974" />
-      <entry key="M10" value="74.35605614078196" />
-      <entry key="M15" value="93.87132572119054" />
-      <entry key="M30" value="145.01675217279183" />
-      <entry key="H1" value="234.39007012678087" />
-      <entry key="H2" value="394.52085533297094" />
-      <entry key="H4" value="689.1798353055221" />
-      <entry key="D1" value="2307.636587093665" />
-      <entry key="W1" value="3631.173557995544" />
+      <entry key="MS100" value="0.9138314502294005" />
+      <entry key="MS500" value="0.9821395952633915" />
+      <entry key="S2" value="0.995504677670617" />
+      <entry key="S5" value="0.9981994402866303" />
+      <entry key="S10" value="0.9990993145261537" />
+      <entry key="S30" value="0.9996996813264409" />
+      <entry key="S60" value="0.999849830121395" />
+      <entry key="M2" value="1.0000107742389956" />
+      <entry key="M5" value="1.208260316685646" />
+      <entry key="M10" value="5.211792129108762" />
+      <entry key="M15" value="14.597314281651306" />
+      <entry key="M30" value="53.43848110928176" />
+      <entry key="H1" value="117.65556380050144" />
+      <entry key="H2" value="213.67960200987375" />
+      <entry key="H4" value="411.9555539112649" />
+      <entry key="D1" value="2214.861985478322" />
+      <entry key="W1" value="4166.394470214083" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -100,6 +114,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.__main__.executor": "Run",
     "Python.cafeteria.executor": "Run",
+    "Python.classes031.executor": "Run",
     "Python.ex001.executor": "Run",
     "Python.ex002.executor": "Run",
     "Python.ex003.executor": "Run",
@@ -119,6 +134,8 @@
     "Python.rich003.executor": "Run",
     "Python.rich004.executor": "Run",
     "Python.rich005.executor": "Run",
+    "Python.termostato.executor": "Run",
+    "Python.teste.executor": "Run",
     "Python.transportes.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -128,7 +145,7 @@
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "C:/Users/Admin/Desktop/Bruno Treino/POO-Python/Abstração",
+    "last_opened_file_path": "C:/Users/Admin/Desktop/Bruno Treino/POO-Python/exercicios/Encapsulamento",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -140,10 +157,14 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Desktop\Bruno Treino\POO-Python\exercicios\Encapsulamento" />
+      <recent name="C:\Users\Admin\Desktop\Bruno Treino\POO-Python\exercicios" />
       <recent name="C:\Users\Admin\Desktop\Bruno Treino\POO-Python\Abstração" />
       <recent name="C:\Users\Admin\Desktop\Bruno Treino\POO-Python\Herança" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Desktop\Bruno Treino\POO-Python" />
+      <recent name="C:\Users\Admin\Desktop\Bruno Treino\POO-Python\exercicios\Encapsulamento\ex008" />
       <recent name="C:\Users\Admin\Desktop\Bruno Treino\POO-Python\Herança\ex004" />
       <recent name="C:\Users\Admin\Desktop\Bruno Treino\POO-Python\exercicios" />
     </key>

@@ -13,10 +13,10 @@ class Personagem(ABC):
     def atacar(self, alvo, forca):
         if alvo.vida > 0 and self.vida > 0:
             golpe = self.golpes[random.randrange(0, len(self.golpes))]
-            print(f'O [green]{self.nome}[/],({self.vida}) atacou o [red]{alvo.nome}[/] ({alvo.vida}), com um [yellow]{golpe}[/] de {forca} ')
+            print(f'O [green]{self.nome}[/],({self.vida}) atacou o [red]{alvo._nome}[/] ({alvo.vida}), com um [yellow]{golpe}[/] de {forca} ')
             alvo.receber_dano(forca)
         else:
-            print(f'O ataque de {self.nome} em {alvo.nome} não foi possivel ser feito ')
+            print(f'O ataque de {self.nome} em {alvo._nome} não foi possivel ser feito ')
 
     def receber_dano(self, dano):
         fator = randint(0, dano)
