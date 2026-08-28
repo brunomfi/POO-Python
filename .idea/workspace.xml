@@ -5,23 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42934707-06b2-4e2e-96bc-e54c1c6d2a49" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Encapsulamento/Desafios/desafio028/__main__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Encapsulamento/Desafios/desafio028/termostato.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Encapsulamento/Desafios/desafio029/__main__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Encapsulamento/Desafios/desafio029/diario.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Encapsulamento/Desafios/desafio030/__main__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Encapsulamento/Desafios/desafio030/classes030.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Encapsulamento/Desafios/desafio030/teste.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Encapsulamento/Desafios/desafio031/__main__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Encapsulamento/Desafios/desafio031/classes031.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Encapsulamento/ex008/__main__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Encapsulamento/ex008/ex008.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Encapsulamento/ex009/__main__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Encapsulamento/ex009/ex009.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Encapsulamento/ex010/__main__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Encapsulamento/ex010/ex010.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Encapsulamento/Desafios/desafio032/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Encapsulamento/Desafios/desafio032/classe032.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafios/desafio027/personagem_rpg.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafios/desafio027/personagem_rpg.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,61 +26,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0" />
-      <entry key="S5" value="1.0" />
-      <entry key="S10" value="1.0" />
-      <entry key="S30" value="1.0" />
-      <entry key="S60" value="1.0000000007459602" />
-      <entry key="M2" value="1.000084237430759" />
-      <entry key="M5" value="1.2026624330654945" />
-      <entry key="M10" value="5.08362391846904" />
-      <entry key="M15" value="14.115591259048792" />
-      <entry key="M30" value="51.17946127386831" />
-      <entry key="H1" value="112.12408499719548" />
-      <entry key="H2" value="202.85047082085683" />
-      <entry key="H4" value="390.11395673430457" />
-      <entry key="D1" value="2112.142043824816" />
-      <entry key="W1" value="3990.724722484726" />
+      <entry key="MS100" value="1.0308197740258265" />
+      <entry key="MS500" value="1.5240425307012395" />
+      <entry key="S2" value="3.0099128377477453" />
+      <entry key="S5" value="4.700554383056182" />
+      <entry key="S10" value="5.679705432778733" />
+      <entry key="S30" value="6.515010507545099" />
+      <entry key="S60" value="6.758336210015787" />
+      <entry key="M2" value="7.137359802116897" />
+      <entry key="M5" value="9.873028118968433" />
+      <entry key="M10" value="17.81248313383073" />
+      <entry key="M15" value="29.155464879264116" />
+      <entry key="M30" value="70.63935632876245" />
+      <entry key="H1" value="153.27136192040575" />
+      <entry key="H2" value="291.32381840372625" />
+      <entry key="H4" value="517.9667291564286" />
+      <entry key="D1" value="2304.3238270928005" />
+      <entry key="W1" value="4358.825094451879" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
-      <entry key="S2" value="0.0" />
-      <entry key="S5" value="3.882594137540859E-136" />
-      <entry key="S10" value="1.9704299372321915E-68" />
-      <entry key="S30" value="2.70097355711526E-23" />
-      <entry key="S60" value="5.197089929210699E-12" />
-      <entry key="M2" value="2.280975921061153E-6" />
-      <entry key="M5" value="0.006058729883280219" />
-      <entry key="M10" value="0.13176817897996657" />
-      <entry key="M15" value="0.4888368839168253" />
-      <entry key="M30" value="2.2715355184557513" />
-      <entry key="H1" value="5.544709358929248" />
-      <entry key="H2" value="10.840748336911776" />
-      <entry key="H4" value="21.85253613802694" />
-      <entry key="D1" value="102.72949902778208" />
-      <entry key="W1" value="175.67226202396338" />
+      <entry key="S2" value="3.2582570945109684E-89" />
+      <entry key="S5" value="4.028970985336027E-36" />
+      <entry key="S10" value="2.007229679268426E-18" />
+      <entry key="S30" value="1.2614373618023797E-6" />
+      <entry key="S60" value="0.0011231385284808275" />
+      <entry key="M2" value="0.03354864396183105" />
+      <entry key="M5" value="0.2769395398460916" />
+      <entry key="M10" value="0.7695633538842814" />
+      <entry key="M15" value="1.4269299881725577" />
+      <entry key="M30" value="3.832112744316266" />
+      <entry key="H1" value="8.513381428688126" />
+      <entry key="H2" value="16.592893125944453" />
+      <entry key="H4" value="30.148835309632343" />
+      <entry key="D1" value="117.4806714446223" />
+      <entry key="W1" value="199.71917341442116" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9138314502294005" />
-      <entry key="MS500" value="0.9821395952633915" />
-      <entry key="S2" value="0.995504677670617" />
-      <entry key="S5" value="0.9981994402866303" />
-      <entry key="S10" value="0.9990993145261537" />
-      <entry key="S30" value="0.9996996813264409" />
-      <entry key="S60" value="0.999849830121395" />
-      <entry key="M2" value="1.0000107742389956" />
-      <entry key="M5" value="1.208260316685646" />
-      <entry key="M10" value="5.211792129108762" />
-      <entry key="M15" value="14.597314281651306" />
-      <entry key="M30" value="53.43848110928176" />
-      <entry key="H1" value="117.65556380050144" />
-      <entry key="H2" value="213.67960200987375" />
-      <entry key="H4" value="411.9555539112649" />
-      <entry key="D1" value="2214.861985478322" />
-      <entry key="W1" value="4166.394470214083" />
+      <entry key="MS100" value="0.9157180448274579" />
+      <entry key="MS500" value="1.2843370742516091" />
+      <entry key="S2" value="2.7871811905657533" />
+      <entry key="S5" value="4.539955339877687" />
+      <entry key="S10" value="5.578274683065717" />
+      <entry key="S30" value="6.475115264796559" />
+      <entry key="S60" value="6.738609580861979" />
+      <entry key="M2" value="7.159470343806801" />
+      <entry key="M5" value="10.141780416945354" />
+      <entry key="M10" value="18.572768428207837" />
+      <entry key="M15" value="30.57104085890548" />
+      <entry key="M30" value="74.45589020325448" />
+      <entry key="H1" value="161.76722216502776" />
+      <entry key="H2" value="307.90006606098973" />
+      <entry key="H4" value="548.1009133896401" />
+      <entry key="D1" value="2421.793992694494" />
+      <entry key="W1" value="4558.54150308061" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -114,11 +100,13 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.__main__.executor": "Run",
     "Python.cafeteria.executor": "Run",
+    "Python.classe032.executor": "Run",
     "Python.classes031.executor": "Run",
     "Python.ex001.executor": "Run",
     "Python.ex002.executor": "Run",
     "Python.ex003.executor": "Run",
     "Python.ex004.executor": "Run",
+    "Python.ex008.executor": "Run",
     "Python.ex016.executor": "Run",
     "Python.ex017.executor": "Run",
     "Python.ex018.executor": "Run",
