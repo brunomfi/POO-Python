@@ -19,8 +19,8 @@ class Contabancaria():
         self.titular = titular
         self.saldo = saldo
 
-
-        print(f'Conta {self._id}, de {self._titular}, com {self.__saldo}, criada com sucesso')
+    def __str__(self):
+        return f'Conta do ID: {self.id} do {self.titular} tem R${self.__saldo}'
 
     def pede_senha(self) -> str:
         while True:
@@ -29,8 +29,13 @@ class Contabancaria():
             if len(senha) >= 6:
                 break
         return senha
-    def validar_senha(self, senha):
-        
+    def validar_senha(self, chave) -> bool:
+        usuario = hashlib.sha256(chave.encode('utf-8')).hexdigest()
+        if usuario == self.__hash:
+            return True
+        else:
+            return False
+
 
 
     @property
@@ -52,25 +57,46 @@ class Contabancaria():
     def saldo(self):
         return self.__saldo
     @saldo.setter
-    def saldo(self, valor):
-        if valor >= 0:
-            self.__saldo = valor
+    def saldo(self, valor ):
+
+            if valor >= 0:
+
+                self.__saldo = valor
+            else:
+                raise ValueError('Saldo invalido')
+    @property
+    def nome(self):
+        return self._titular
+    @nome.setter
+    def nome(self, novoNome:str = None):
+        chave = self.pede_senha()
+
+        if self.validar_senha(chave):
+            self._titular = novoNome
         else:
-            raise ValueError('Saldo invalido')
+            print('Senha invalida')
 
 
 
     def depositar(self, valor):
         if valor > 0:
             self.saldo += valor
+            print(f'Feito deposito de R$ {valor} valor total de: R${self.saldo}')
         else:
             raise ValueError('Valor invalido')
 
-    def sacar(self, valor):
-        if valor <= self.saldo:
-            self.saldo -= valor
-        else:
-            raise ValueError('Saque indisponivel, valor menor que saldo')
+    def sacar(self, valor,chave:str = None ):
+        if chave is None:
+            chave = self.pede_senha()
+
+        if self.validar_senha(chave):
+            if valor <= self.saldo:
+                self.saldo -= valor
+                print(f'Feito saque de R${valor} restante de: R${self.saldo}')
+            else:
+                print(f'Saldo: {self.saldo}')
+                raise ValueError('Saque indisponivel, valor menor que saldo')
+
 
 
 
